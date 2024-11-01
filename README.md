@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @whynotkrish
-- 👀 I’m interested in Technology and 
+- 👀 I’m interested in Technology and networks 
 - 🌱 I’m currently learning python
 - ⚡ Fun fact: i love football and Hiking alongside with playing with technology 
 
